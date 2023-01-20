@@ -1,0 +1,25 @@
+{
+  "name": "bunbot",
+  "version": "1.0.0",
+  "description": "personal bot for messing around",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyadiia/bunbot-js.git"
+  },
+  "author": "Nadia P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyadiia/bunbot-js/issues"
+  },
+  "homepage": "https://github.com/nyadiia/bunbot-js#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
+}
